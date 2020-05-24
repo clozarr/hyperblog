@@ -1,2 +1,2 @@
 # hyperblog
-Este es un proyecto de Prueba
+Repository to learn git and github
